@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FIREBASE-CHAT-APP</string>
+    <string name="app_bar">FRIENDLY CHAT</string>
 </resources>
